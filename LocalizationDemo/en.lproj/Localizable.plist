@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baslik</key>
+	<dict>
+		<key>value</key>
+		<string>Title</string>
+		<key>comment</key>
+		<string>Genel Bir açıklama</string>
+	</dict>
+	<key>menu</key>
+	<dict>
+		<key>comment</key>
+		<string>Genel Bir açıklama</string>
+		<key>value</key>
+		<string>Menu</string>
+	</dict>
+	<key>secenek</key>
+	<dict>
+		<key>comment</key>
+		<string>Genel Bir açıklama</string>
+		<key>value</key>
+		<string>Section</string>
+	</dict>
+</dict>
+</plist>
